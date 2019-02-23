@@ -1,1 +1,1 @@
-# bootstrat-tinyone
+https://samithpantho.github.io/bootstrap-tinyone/.
