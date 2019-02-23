@@ -1,0 +1,171 @@
+/*font-family: 'PT Sans', sans-serif;*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	color: #898989;
+}
+/*navbar start*/
+header{
+	background-color: #fcdb00;
+	padding: 10px 0;
+}
+.nav-item a{
+	padding: 0px 35px !important;
+	font-size: 22px;
+	font-weight: 700;
+	color: #010101 !important;
+	transition: .5s;
+}
+.nav-item a:hover{
+	color: #67D8EF !important;
+}
+/*navbar end*/
+/*banner start*/
+.banner{
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+}
+.custom_banner{
+	margin: 60px 30px;
+}
+.custom_banner h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.custom_banner h6{
+	font-size: 20px;
+	font-weight: 400;
+	color: #313841;
+}
+.custom_banner p{
+	font-size: 16px;
+	color: #555555;
+}
+
+.list-inline li a i{
+	font-size: 42px;
+	color: #010101;
+	margin-right: 20px;
+	transition: .5s;
+}
+.list-inline li a i:hover{
+	color: #67D8EF !important;
+}
+.slide_img img{
+	margin-left: 50px;
+}
+.carousel-indicators {
+    bottom: -85px;
+ }
+.carousel-indicators li{
+	width: 16px;
+	height: 16px;
+	border-radius: 50%;
+}
+/*banner end*/
+/*service start*/
+.services {
+    padding: 65px 0;
+    padding-bottom: 150px;
+}
+.text{
+    padding: 0px 78px;
+}
+.text h2{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.text p{
+	font-size: 20px;
+	color: #313841;
+}
+.feature{
+	margin-top: 70px;
+}
+.singleinfo h2{
+	font-size: 22px;
+	color: #010101;
+}
+.singleinfo p{
+	font-size: 16px;
+	color: #898989;
+}
+.singleimg{
+    width: 70%;
+    height: auto;
+}
+/*service end*/
+/*contact start*/
+.contact {
+    background-color: #010101;
+}
+.contact_text {
+    margin-top: 47px;
+}
+.contact_text h2{
+	font-weight: 700;
+	font-size: 32px;
+	color: #fcdb00;
+}
+.contact_text p {
+    font-size: 20px;
+    color: #898989;
+    margin: 0px;
+}
+.for-form {
+    margin-top: 32px;
+}
+.email{
+	height: 46px;
+	outline: none;
+}
+.yellow{
+    background-color: #fcdb00;
+    border: none;
+    font-weight: 700;
+    font-size: 16px;
+    color: #010101;
+    height: 46px;
+    padding: 0px 25px;
+    transition: .5s;
+}
+.yellow:hover{
+	color: #67D8EF !important;
+}
+.icons {
+    margin-top: 43px;
+}
+.icons ul li a i {
+    margin: 0px 11px;
+    color: #fcdb00;
+    font-size: 42px;
+    transition: .5s;
+}
+.icons ul li a:hover i{
+	color: #67D8EF;
+}
+/*contact end*/
+/*footer start*/
+footer {
+    background-color: #010101;
+    padding: 45px 0px 47px;
+}
+address{
+	font-weight: 400;
+	font-size: 15px;
+	color: #ffffff;
+}
+address a{
+	color: #ffffff;
+}
+address a:hover,.footer_option ul li a:hover{
+	color: #67D8EF !important;
+	text-decoration: none;
+}
+.footer_option ul li a{
+	font-weight: 400;
+	font-size: 15px;
+	color: #ffffff;
+}
+/*footer end*/
